@@ -1,6 +1,7 @@
 To check the configured username and user email in your Git configuration,
 
-"Add command here"
+"git config --global user.name 'user name'
+git config --global user.email 'user email'"
 
 To initialize new github repository,
 
@@ -8,19 +9,19 @@ To initialize new github repository,
 
 To check the status of repository,
 
-"Add command here"
+"git status"
 
 Staging the changes,
 
-"Add command here"
+""
 
 Commiting Changes,
 
-"Add command here"
+"git commit -m "meaasage""
 
 To see the commit history and log,
 
-"Add command here"
+"git log"
 
 To go to a specific commit,
 
